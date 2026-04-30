@@ -1,0 +1,22 @@
+# Build folder and artifacts
+build/
+compile_commands.json
+
+#Compiled Object Files & Binaries
+*.o
+*.obj
+*.exe
+*.dll
+*.out
+*.a
+*.lib
+*.so
+
+#Editor
+*.swp
+*.swo
+*.~
+
+#Windows sneaky files
+Thumbs.db
+.DS_Store
